@@ -9,4 +9,4 @@ He realizado un post en mi blog y quizá te sea de mejor ayuda verificar el cód
 
 Favor de verificar el post/tutorial:
 
-[Texto del enlace]([https://ejemplo.com](https://carlosjulian.mx/publicar-automaticamente-tus-badges-de-google-cloud-en-wordpress/)
+[Ver tutorial](https://carlosjulian.mx/publicar-automaticamente-tus-badges-de-google-cloud-en-wordpress/)
