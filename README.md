@@ -2,6 +2,5 @@
 
 He realizado un post en mi blog y quizá te sea de mejor ayuda verificar el código paso a paso.
 
-[url]carlosjulian.mx[/url]
-
+[url]carlosjulian.mx
 # Es importante primero correr el script en Python
